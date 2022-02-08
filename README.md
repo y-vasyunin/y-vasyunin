@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - An investigative, award-winning engineer and data scientist delivering information products and services since 2011. Employ in-depth analysis of problems, effective communication in a multi-cultural environment, and profound geo-informatics expertise.
-- A top-rated, diversely-skilled freelancer. Carried out 21 jobs in data ETL, analysis, and visualization for worldwide clients in 2017–2020.
+- A top-rated, diversely-skilled freelancer. Carried out 21 jobs in data ETL, analysis, and visualization for worldwide clients on upwork.com in 2017–2020.
 - Passionate about big data and machine learning. Completed Big Data Specialization and got hands-on experience with the tools and systems used by big data engineers and analysts.
 - AWS Certified Cloud Practitioner specifically interested in developing scalable cloud applications.
 
