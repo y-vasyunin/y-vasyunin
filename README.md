@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vasyunin/" target="_blank">Yaroslav</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm <a href="https://www.linkedin.com/in/vasyunin/" target="_blank">Yaroslav</a></h1>
 
 <h2 align="center">Data Scientist experienced in Earth Observation and Geoinformation Systems</h2>
 
