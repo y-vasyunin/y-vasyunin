@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vasyunin/" target="_blank">Yaroslav</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h2 align="center">Data scientist experienced in Earth observation and geoinformation systems</h2>
+<h2 align="center">Data Scientist experienced in Earth Observation and Geoinformation Systems</h2>
 
 <p align="center"><a href="https://en.wikipedia.org/wiki/Remote_sensing" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Satellite_imaging.svg" alt="remote sensing" width="200"/> </a></p>
 
 ## 🧑‍💻 About Me
 
-- An investigative, award-winning engineer and data scientist delivering information products and services since 2011. Employ in-depth analysis of problems, effective communication in a multi-cultural environment, and profound geo-informatics expertise.
-- A top-rated, diversely-skilled freelancer. Carried out 21 jobs in data ETL, analysis, and visualization for worldwide clients on upwork.com in 2017–2020.
-- Passionate about big data and machine learning. Completed Big Data Specialization and got hands-on experience with the tools and systems used by big data engineers and analysts.
-- AWS Certified Cloud Practitioner specifically interested in developing scalable cloud applications.
+- ***An investigative, award-winning engineer and data scientist delivering information products and services since 2011***. Employ in-depth analysis of problems, effective communication in a multi-cultural environment, and profound geo-informatics expertise.
+- ***A top-rated, diversely-skilled freelancer***. Carried out 21 jobs in data ETL, analysis, and visualization for worldwide clients on upwork.com in 2017–2020.
+- ***AWS Certified Cloud Practitioner*** specifically interested in developing scalable cloud applications.
+- ***Extraction of meaning from Big Earth Observation data by Machine Learning*** is my current professional interest.
 
 ## ⚡ Tech Stack
 
