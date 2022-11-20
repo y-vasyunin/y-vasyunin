@@ -6,10 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- ***An investigative, award-winning engineer and data scientist delivering information products and services since 2011***. Employ in-depth analysis of problems, effective communication in a multi-cultural environment, and profound geo-informatics expertise.
-- ***A top-rated, diversely-skilled freelancer***. Carried out 21 jobs in data ETL, analysis, and visualization for worldwide clients on upwork.com in 2017–2020.
-- ***AWS Certified Cloud Practitioner*** specifically interested in developing scalable cloud applications.
-- ***Extraction of meaning from Big Earth Observation data by Machine Learning*** is my current professional interest.
+I develop and implement artificial intelligence applications, focused on environmental sustainability, using Google Cloud Platform. I have profound expertise of 10+ years in the extraction of value from complex geographic data, such as satellite imagery and cartographic datasets.
 
 ## ⚡ Tech Stack
 
