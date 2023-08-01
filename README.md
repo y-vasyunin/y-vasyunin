@@ -12,8 +12,6 @@ I hold an engineering degree with a specialty in Remote Sensing in Natural Resou
 
 ## ⚡ Tech Stack
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y-vasyunin&theme=vue)
-
 ### Geospatial Toolkit
 
 <p align="left">
