@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I develop and implement **artificial intelligence** applications using the **Google Cloud Platform**. It is fueled by my profound expertise of 10+ years in the extraction of value from complex geographic data, such as **satellite imagery**.
+I develop and implement **artificial intelligence** applications using the **Google Cloud Platform**. It is fueled by my profound expertise in the extraction of value from complex geographic data, such as **satellite imagery**.
 
 I hold an engineering degree with a specialty in Remote Sensing in Natural Resource Exploration. I also maintain several professional Google Cloud certifications.
 
