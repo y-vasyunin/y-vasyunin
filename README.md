@@ -38,6 +38,8 @@ Hold an engineering degree specialising in Remote Sensing for Natural Resource E
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/looker" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354012/looker-icon.svg" alt="Looker" width="40" height="40"/> </a>
 </p>
 
 ## Activity
