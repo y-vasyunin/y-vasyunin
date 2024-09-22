@@ -1,46 +1,23 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm <a href="https://www.linkedin.com/in/vasyunin/" target="_blank">Yaroslav</a></h1>
 
-<h2 align="center">A Data Scientist experienced in Earth Observation and Geoinformation Systems</h2>
+<h2 align="center">🌍 Data Scientist | 📡 Geospatial Data Expert | 📜 Archaeology Enthusiast</h2>
 
 <p align="center"><a href="https://en.wikipedia.org/wiki/Remote_sensing" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Satellite_imaging.svg" alt="remote sensing" width="200"/> </a></p>
 
 ## 🧑‍💻 About Me
 
-Develop and implement **artificial intelligence** and **business intelligence** applications utilising **Google Cloud Platform**, driven by extensive expertise in extracting value from complex geographic data, including **satellite imagery**.
+I'm a geospatial data expert with extensive experience in analyzing, visualizing, and solving complex geographic problems. I specialize in spatial analysis, particularly interested in archaeology and environmental applications, and I'm currently learning how to integrate AI into GIS to enhance geospatial insights.
 
-Hold an engineering degree specialising in Remote Sensing for Natural Resource Exploration, complemented by multiple professional Google Cloud certifications.
+I hold an engineering degree specializing in Remote Sensing for Natural Resource Exploration, complemented by multiple professional Google Cloud certifications.
 
-## ⚡ Tech Stack
+- 🌍 **Expertise:** Geographic Information Systems (GIS), Remote Sensing, Google Cloud Platform, Machine learning.
+- 🔭 **Current hobby projects:**
+  - [Paititi Research](https://www.paititi.info/) - an international effort to reveal the greatest Inca mystery using geospatial technology.
+  - [Geospatial Grimoire](https://www.geospatial-grimoire.com/) - an open collaborative platform to empower users to create immersive, interactive, and customizable geospatial products for imaginary worlds.
+- 📡 **Key Skills:** Google Cloud Platform, Python, QGIS, Google Earth Engine, Business Intelligence.
+- 🏛️ **Fascination:** Using technology to bridge the gap between data science and human science.
 
-### Geospatial Toolkit
-
-<p align="left">
- <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" alt="google earth engine" width="40" height="40"/> </a>
- <a href="https://www.sentinel-hub.com/" target="_blank" rel="noreferrer"> <img src="https://www.sentinel-hub.com/img/logo.svg" alt="sentinel-hub" width="100"/> </a>
- <a href="https://gdal.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" alt="gdal" width="40" height="40"/> </a>
- <a href="https://www.danielgm.net/cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/CloudCompareV2_logo.png" alt="cloudccompare" width="40" height="40"/> </a>
- <a href="https://www.agisoft.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/ytc/AKedOLSE2kOBeDe3j6ngLfpMNitQP-H1PDAdii8aBSZ_ag=s176-c-k-c0x00ffffff-no-rj" alt="agisoft metashape" width="40" height="40"/> </a>
- <a href="https://eo4society.esa.int/resources/snap/" target="_blank" rel="noreferrer"> <img src="https://eo4society.esa.int/wp-content/uploads/2018/11/SNAP_icon-400x400.jpg" alt="esa snap" width="40" height="40"/> </a>
- <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/de/3/38/GeoServer_Logo.svg" alt="geoserver" width="100"/> </a>
- <a href="https://openlayers.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenLayers_logo.svg" alt="open layers" width="40" height="40"/> </a>
- <a href="https://postgis.net/" target="_blank" rel="noreferrer"> <img src="https://postgis.net/docs/manual-dev/images/PostGIS_logo.png" alt="postgis" width="40" height="40"/> </a>
- <a href="https://www.arcgis.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="arcgis" width="40" height="40"/> </a>
- <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" alt="qgis" width="40" height="40"/> </a>
-</p>
-
-### Developer's Toolkit
-
-<p align="left">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/looker" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354012/looker-icon.svg" alt="Looker" width="40" height="40"/> </a>
-</p>
+- 🌱 **Learning:** Integrating AI into GIS for more intelligent spatial analysis.
 
 ## Activity
 
