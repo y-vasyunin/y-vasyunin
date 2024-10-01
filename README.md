@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a geospatial data expert with extensive experience in analyzing, visualizing, and solving complex geographic problems. I specialize in spatial analysis, particularly interested in archaeology and environmental applications, and I'm currently learning how to integrate AI into GIS to enhance geospatial insights.
+I'm a geospatial data expert with extensive experience in analyzing, visualizing, and solving complex geographic problems. I specialize in spatial analysis, particularly interested in archaeology and environmental applications.
 
 I hold an engineering degree specializing in Remote Sensing for Natural Resource Exploration, complemented by multiple professional Google Cloud certifications.
 
