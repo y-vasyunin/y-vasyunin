@@ -13,16 +13,12 @@ I hold an engineering degree specializing in Remote Sensing for Natural Resource
 - 🌍 **Expertise:** Geographic Information Systems (GIS), Remote Sensing, Google Cloud Platform, Machine learning.
 - 🔭 **Current hobby projects:**
   - [Paititi Research](https://www.paititi.info/) - an international effort to reveal the greatest Inca mystery using geospatial technology.
-  - [Geospatial Grimoire](https://www.geospatial-grimoire.com/) - an open collaborative platform to empower users to create immersive, interactive, and customizable geospatial products for imaginary worlds.
+  - [Geospatial Grimoire](https://www.geospatial-grimoire.com/) - a website about building immersive, interactive, and customizable multilingual fictional landscapes using open-source GIS tools and data.
 - 📡 **Key Skills:** Google Cloud Platform, Python, QGIS, Google Earth Engine, Business Intelligence.
 - 🏛️ **Fascination:** Using technology to bridge the gap between data science and human science.
 
 - 🌱 **Learning:** Integrating AI into GIS for more intelligent spatial analysis.
 
-## Activity
-
-[![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-vasyunin)](https://github.com/y-vasyunin/github-readme-stats)
-
-### Stack Exchange Profile
+## Stack Exchange Profile
 
 <a href="https://stackexchange.com/users/1717642"><img src="https://stackexchange.com/users/flair/1717642.png" width="208" height="58" alt="profile for Yaroslav Vasyunin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Yaroslav on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
