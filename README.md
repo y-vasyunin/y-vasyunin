@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm <a href="https://www.linkedin.com/in/vasyunin/" target="_blank">Yaroslav</a></h1>
 
-<h3 align="center">Google Cloud Practitioner & Geospatial Expert</h3>
+<h3 align="center">Geospatial Expert & Google Cloud Practitioner</h3>
 
 <p align="center">
   <a href="https://www.paititi.info/" target="_blank" rel="noreferrer">
