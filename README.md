@@ -8,7 +8,7 @@
   </a>
 </p>
 
-I'm fascinated by the stories hidden within our world's landscapes, both real and imagined. Armed with an engineering degree in Remote Sensing and multiple Google Cloud certifications, I enjoy using geospatial and cloud technology to investigate historical mysteries and build new fictional worlds.
+I'm fascinated by the stories hidden in both real and imagined landscapes. With an engineering degree in Remote Sensing and multiple Google Cloud certifications, I enjoy using geospatial and cloud technology to investigate historical mysteries and build new fictional worlds.
 
 ---
 
@@ -25,7 +25,7 @@ I'm fascinated by the stories hidden within our world's landscapes, both real an
 
 ### What I'm Learning Next
 
-I'm currently focused on deeper integration of AI and Machine Learning into GIS workflows to build more intelligent and predictive spatial analysis systems.
+I'm currently focused on deeper integration of AI and Machine Learning into GIS workflows to build AI-assisted tools for predictive spatial analysis and environmental monitoring.
 
 ---
 
